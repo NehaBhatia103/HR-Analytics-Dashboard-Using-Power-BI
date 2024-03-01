@@ -5,21 +5,21 @@ About Data Set:
 The data we have is the attandance record of a company for the months of April ,May and June.
 
 Tools Used:
-Power BI
-Power Query
-DAX Query
-Visualization
+- Power BI
+- Power Query
+- DAX Query
+- Visualization
 
 Cleaning and Analyzing Using Power Query
-Imported the data 
-Used Power Query to clean and transform the data
-Crated a template for one sheet in Power Query transformations and apply the same transformations to all as we only has data for three months.We made provision for future data for the coming months.
-Applied all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types
-Created the parameters to select the desired data based on a specific condition
-Loaded and Applied the cleaned data into Power BI
+- Imported the data 
+- Used Power Query to clean and transform the data
+- Crated a template for one sheet in Power Query transformations and apply the same transformations to all as we only has data for three months.We made provision for future data for the coming months.
+- Applied all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types
+- Created the parameters to select the desired data based on a specific condition
+- Loaded and Applied the cleaned data into Power BI
 
 Exploring and manipulating data sing DAX Query
-With DAX Query, we manipulated and analyzed the data to provide insights for visualization and identify areas for improvement for HR.
+-With DAX Query, we manipulated and analyzed the data to provide insights for visualization and identify areas for improvement for HR.
 Created Measures and columns Using DAX functions such as Month,Sick Leave Count, Work from home count,Percentage of presence ,Sick Leave and Work From home.
 
 Power BI Dashboard Visualization
